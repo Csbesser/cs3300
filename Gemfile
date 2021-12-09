@@ -74,3 +74,11 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 #iteration 5 install stuff
 gem 'devise'
 
+
+#iteration 6 bootstrap install
+gem 'bootstrap', '~> 4.6.1'
+
+#iteration 6 jquery-rails install
+gem 'jquery-rails'
+
+
